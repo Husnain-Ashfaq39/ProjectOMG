@@ -1,0 +1,14 @@
+# Project OMG - Documentation
+
+## Overview
+Project OMG is a revolutionary application designed to change the way users interact with cloud-based systems. It offers a seamless and efficient cloud management experience with a focus on security, scalability, and usability.
+
+## Features
+- Intuitive user interface
+- Secure authentication and authorization
+- Real-time cloud resource monitoring
+- Automated backups and recovery
+- Advanced analytics and reporting
+
+## Installation
+1. Clone the repository:
